@@ -1,0 +1,2 @@
+# musicPlayer
+Music_Player is a fully functional web based music player with multiple features for playing music per user request. It features the tile of the track, the artist, the cover art, a current time progress bar, play/pause buttons and previous/next buttons. The previous/next buttons can be used to loop thsough songs indefinetly. Also, when the mouse hovers over the control buttons, they change color, cursor pointer changes and a title textbox for the appears.
